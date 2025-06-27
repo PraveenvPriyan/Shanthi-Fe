@@ -1,3 +1,4 @@
+
 const Header = () => {
 
         return(
@@ -28,7 +29,7 @@ const Header = () => {
                                             </div>
                                             <div className="text-box">
                                                 <p>Address</p>
-                                                <h4>Mountain of Mercy, Pallissery, Arattupuzha.P.O, Thrissur.</h4>
+                                                <h4>Office 3261, Ground Floor, 470 St Kilda Rd., MELBOURNE VIC 3004, Australia.</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -40,7 +41,7 @@ const Header = () => {
                                             </div>
                                             <div className="text-box">
                                                 <p>Email</p>
-                                                <h4><a href="mailto:yourmail@email.com">contact@shanthibhavan.com</a></h4>
+                                                <h4><a href="mailto:yourmail@email.com">operationssbau@palliativeinternational.com</a></h4>
                                             </div>
                                         </div>
                                     </li>
@@ -52,7 +53,7 @@ const Header = () => {
                                             </div>
                                             <div className="text-box">
                                                 <p>Contact and support</p>
-                                                <h4><a href="tel:9142653804">+91 9142653804</a></h4>
+                                                <h4><a href="tel:061391112473">+61 391112473</a></h4>
                                             </div>
                                         </div>
                                     </li>
@@ -106,7 +107,7 @@ const Header = () => {
 
                                                     <ul>
                                                         <li><a href="/donation">Donation</a></li>
-                                                        <li><a href="/donation">Sponsor a Bed</a></li>
+                                                        <li><a href="/donation">Vision</a></li>
                                                          
                                                     </ul>
 

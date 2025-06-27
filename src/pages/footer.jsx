@@ -57,9 +57,9 @@ const Footer = () => {
                                          </div>
 
                                          <div className="content-box">
-                                             <p> Shanthibhavan Palliative Hospital, <br/>
-                                                 Mountain of Mercy, <br/>
-                                                 Pallissery, Arattupuzha.P.O, <br/>Thrissur - 680562</p>
+                                             <p> SHANTHIBHAVAN PALLIATIVE INTERNATIONAL LTD, <br/>
+                                                 Office 3261, Ground Floor, 470 St Kilda Rd, <br/>                                                 
+                                                 MELBOURNE VIC 3004, <br/>Australia</p>
                                          </div>
                                      </div>
                                  </li>
@@ -74,8 +74,8 @@ const Footer = () => {
                                          </div>
 
                                          <div className="content-box">
-                                             <p><a href="tel:04876611600">04876611600</a></p>
-                                             <p><a href="tel:9142653804">9142653804</a></p>
+                                             {/* <p><a href="tel:04876611600">04876611600</a></p> */}
+                                             <p><a href="tel:061391112473">391112473</a></p>
                                          </div>
                                      </div>
                                  </li>

@@ -26,9 +26,12 @@ const Home = () => {
                             </div>
 
                             <div className="feature-one__single-content">
-                                <h2><a href="/aboutus">Get Inspire <br/>
-and Help</a></h2>
-<p>Please donate to change the world if you are inspired by us.</p>
+                                <h2><a href="/aboutus"> Who We <br/> Serve</a></h2>
+<p>Elderly abandoned by families<br/>
+Bedridden and terminally ill patients<br/>
+Patients with no one to care for them<br/>
+Families unable to afford long-term medical support<br/>
+</p>
                             </div>
                         </div>
                     </div>
@@ -44,9 +47,12 @@ and Help</a></h2>
                             </div>
 
                             <div className="feature-one__single-content">
-                                <h2><a href="/aboutus">Send Us <br/>
-Donations</a></h2>
-<p>Creating a donation event can help us directly or indirectly</p>
+                                <h2><a href="/aboutus">What We Provide –<br/> Completely Free</a></h2>
+<p>Hospital admission and accommodation<br/>
+Doctor and nursing care<br/>
+Physiotherapy<br/>
+Dialysis and fluid tapping<br/>
+Catheter and bed sore management</p>
                             </div>
                         </div>
                     </div>
@@ -62,9 +68,8 @@ Donations</a></h2>
                             </div>
 
                             <div className="feature-one__single-content">
-                                <h2><a href="/aboutus">Become a <br/>
-Volunteer </a></h2>
-<p>Want to help with this pandemic, please join us as a volunteer.</p>
+                                <h2><a href="/aboutus">Hands of <br/>Grace Program</a></h2>
+<p>For patients without family support or financial ability, Hands of Grace ensures they receive everything from care supplies to personal bystander assistance without worry.</p>
                             </div>
                         </div>
                     </div>
@@ -217,6 +222,45 @@ Hospital in India
         </div>
       </section>  
 
+      {/* <!--Start About One --> */}
+        <section className="about-one" style={{"paddingBottom":"0px","paddingTop":"120px"}}>
+            
+            <div className="container">
+                <div className="row">
+                    {/* <!--Start About One Content--> */}
+                    <div className="col-xl-7 " style={{"alignItems":"center", "display":"flex"}}>
+                        <div className="about-one__content " >
+                            <div className="sec-title">
+                             
+                                <h2 className="sec-title__title">Why We Exist
+</h2>
+                            </div>
+                            <div className="about-one__content-text">
+                                <p>Life-threatening illnesses do not discriminate. Be it children or the elderly, such conditions often render people physically, mentally, and emotionally broken. While some may pass quickly, many endure prolonged suffering. In India and beyond, structured inpatient palliative hospitals are rare, making dignified end-of-life care inaccessible for thousands.
+Shanthibhavan bridges this gap. We serve as a sanctuary for those rejected by conventional hospitals and unsupported at home, offering hospital-level palliative care with no financial burden. </p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    {/* <!--End About One Content--> */}
+
+                    {/* <!--Start About One Img--> */}
+                    <div className="col-xl-5">
+                        <div className="about-one__img">
+                            <div className="about-one__img-inner">
+                               
+                                <img src="assets/images/about/about-v1-img2.jpg" alt="#"/>
+                            </div>
+                        </div>
+                    </div>
+                    {/* <!--End About One Img--> */}
+                </div>
+
+        
+            </div>
+        </section>
+        {/* <!--End About One --> */}
+
         {/* <!--Start Case One --> */}
         <section className="case-one style3">
             <div className="case-one__bg" style={{"backgroundImage": "url(assets/images/backgrounds/case-v1-bg.jpg);"}}></div>
@@ -345,8 +389,10 @@ Hospital in India
                         <div className="col-xl-12">
                             <div className="shanthi-cust gallery-one__top-inner text-center">
                                 <div className="text-box">
-                                    <h2>Are you ready to volunteer?</h2>
-                                        <p className="gallery-one__top-inner-txt">Join our team today and let us bring a thousand smiles together</p>
+                                    <h2>Join the Mission (Donation)</h2>
+                                        <p className="gallery-one__top-inner-txt" style={{"fontSize":"25px"}}>No one deserves to suffer in silence. No one should die without dignity.
+Let’s build a world where care is a right, not a privilege.
+Join hands with Palliative International, and be a part of a global movement of love, care, and compassion.</p>
                                 </div>
 
                              
@@ -371,7 +417,7 @@ Hospital in India
 
                                      <div className="btn-box">
                                     <a className="thm-btn" href="registration.html">
-                                        <span className="txt">Be a Volunteer</span>
+                                        <span className="txt">Donate Now</span>
                                     </a>
                                 </div>
                          

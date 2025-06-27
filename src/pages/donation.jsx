@@ -216,14 +216,14 @@ const Donation = () => {
     <section class="become-volunteer-one" id="sponsor">
             <div class="container">
                <div class="title-box text-center">
-                    <h2>Sponsor a Bed</h2>
+                    <h2>Vision</h2>
                 </div>
                 <div class="row">
                   
 
 
                     {/* <!--Start Become Volunteer One Form--> */}
-                    <div class="col-xl-6 col-lg-6">
+                    {/* <div class="col-xl-6 col-lg-6">
                         <div class="become-volunteer-one__form">
                             <form id="#" class="default-form2 contact-form-validated comment-one__form" action="#" novalidate="novalidate">
 
@@ -279,24 +279,18 @@ const Donation = () => {
 
                             </form>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Become Volunteer One Form--> */}
 
 
-     <div class="col-xl-6 col-lg-6">
+     <div class="col-xl-12 col-lg-12">
                         <div class="become-volunteer-one__content" id="sponsor-a-bed">
                             <div class="title">
-                                <h2>Sponsor a Bed</h2>
+                                <h2>Global Expansion – A Vision Beyond Borders</h2>
                             </div>
 
-                            <p>Shanthibhavan Palliative Hospital is  the first hospital in India for the palliative bedridden patients without bills and cash counters. Everything is free for the palliative patients including palliative care, all kinds of mental and medical support and food. The Hospital  runs  on the motto,‘by the people, for the people’. 
-                                This hospital extends its support to many homes where bedridden patients need care and love. </p>
- 
- <p>Shanthibhavan Palliative Hospital is  the first hospital in India for the palliative bedridden patients without bills and cash counters. Everything is free for the palliative patients including palliative care, all kinds of mental and medical support and food. The Hospital  runs  on the motto,‘by the people, for the people’. 
-                                This hospital extends its support to many homes where bedridden patients need care and love. </p>
-
-                                 <p>Shanthibhavan Palliative Hospital is  the first hospital in India for the palliative bedridden patients without bills and cash counters. Everything is free for the palliative patients including palliative care, all kinds of mental and medical support and food. The Hospital  runs  on the motto,‘by the people, for the people’. 
-                                This hospital extends its support to many homes where bedridden patients need care and love. </p>
+                            <p>Shanthibhavan has become a global pioneer in long-term inpatient palliative care. Recognizing the urgent need worldwide, Shanthibhavan is forming registered entities under Palliative International across countries.
+The first international chapter, Palliative International Ltd (Australia), has been launched with Archbishop Mar Andrews Thazhath as Chief Patron, and Rev. Fr. Joy Koothur, Sr. Maria Chiaara, and as Co-Founders, Rev. Fr. Anto Chiriyankandath as director and other kind-hearted citizens of Australia. </p>
                             
                         </div>
                     </div>

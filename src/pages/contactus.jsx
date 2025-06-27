@@ -53,10 +53,12 @@ const Contactus = () => {
 
                             <div className="contact-one__single-content">
                                 <h2>Our Address</h2>
-                                <p>Shanthibhavan Palliative Hospital, <br/>
-                                 Mountain of Mercy,
-Pallissery, Arattupuzha.P.O,
-Thrissur - 680562</p>
+                                <p>SHANTHIBHAVAN PALLIATIVE INTERNATIONAL LTD,<br/>
+
+Office 3261, 
+Ground Floor, 470 St Kilda Rd., 
+MELBOURNE VIC 3004, Australia
+</p>
                             </div>
                         </div>
                     </div>
@@ -72,11 +74,11 @@ Thrissur - 680562</p>
 
                             <div className="contact-one__single-content">
                                 <h2>Our Phone</h2>
-                                <p><a href="tel:04876611600">
+                                {/* <p><a href="tel:04876611600">
 04876611600
 
-</a></p>
-                                <p><a href="tel:9142653804">9142653804</a></p>
+</a></p> */}
+                                <p><a href="tel:061391112473">391112473</a></p>
                             </div>
                         </div>
                     </div>
@@ -92,10 +94,10 @@ Thrissur - 680562</p>
 
                             <div className="contact-one__single-content">
                                 <h2>Write email</h2>
-                                <p><a href="mailto:contact@shanthibhavan.com">contact@shanthibhavan.com
+                                <p><a href="mailto:operationssbau@palliativeinternational.com">operationssbau@palliativeinternational.com
 </a></p>
-                                <p><a href="mailto:info@shanthibhavan.com">info@shanthibhavan.com
-</a></p>
+                                {/* <p><a href="mailto:info@shanthibhavan.com">info@shanthibhavan.com
+</a></p> */}
                             </div>
                         </div>
                     </div>
@@ -195,7 +197,7 @@ Thrissur - 680562</p>
 
                                     <div className="text-box">
                                         <p>Get in touch </p>
-                                        <h4><a href="tel:9142653804">9142653804</a></h4>
+                                        <h4><a href="tel:061391112473">391112473</a></h4>
                                     </div>
                                 </div>
                             </div>

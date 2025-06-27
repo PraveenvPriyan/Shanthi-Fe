@@ -61,13 +61,13 @@ const Abouts = () => {
                             </div>
 
                             <div className="about-two__content-text1">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et porta diam. Integer dictum libero non lorem pellentesque tincidunt. Pellentesque scelerisque, orci ac gravida fermentum, odio magna pulvinar tellus, eget hendrerit lacus libero vitae dolor. Nullam blandit, velit ac laoreet condimentum, nisl odio semper massa, id rhoncus metus mauris id sapien. Cras pellentesque a lorem at aliquam. 
-                                    Aliquam tristique tortor a nisi consectetur, a auctor ligula vulputate. Donec auctor dui non accumsan elementum. Fusce eu euismod ante.</p>
+                                <p>Shanthibhavan Palliative Hospital is India’s first and only fully free, long-term palliative care hospital, now expanding globally as Palliative International. Founded in 2016 in Pallissery, Thrissur, with a second palliative hospital in Vattappara, Thiruvananthapuram, Shanthibhavan offers holistic, compassionate care to the bedridden, elderly, and terminally ill, entirely free of cost.
+Our mission is rooted in a single truth: No one deserves to suffer alone. While many hospitals may reject long-term or terminal patients, Shanthibhavan opens its doors, offering not just medical support but human dignity.</p>
                             </div>
 
              
 
-                            <div className="about-two__content-text4">
+                            {/* <div className="about-two__content-text4">
                                 <div className="row">
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                         <div className="about-two__content-text4-single">
@@ -97,7 +97,7 @@ const Abouts = () => {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
                         </div>
                     </div>
@@ -133,13 +133,21 @@ const Abouts = () => {
             </div>
             <div className="container">
 
-  <div className="title-box text-center">
-                    <h4>Board Members</h4>
+  {/* <div className="title-box text-center">
+                    <h4>Who Leads Us</h4>
+                </div> */}
+<div className="sec-title" style={{"textAlign": "center"}}>
+                   
+                    <h3 className="sec-title__title">Who Leads Us
+                    </h3>
                 </div>
 
+                <div className="about-two__content-text1">
+                                <p>Shanthibhavan is led by the Franciscan Sisters of St. Clare, with the spiritual and administrative guidance of Archbishop Mar Andrews Thazhath (Chief Patron). The vision is carried forward by Rev. Fr. Joy Koothur, Rev. Sr. Maria Chiara Kalliayathparambil FSC - Co-Founders, whose relentless commitment has made Shanthibhavan a model for the world.</p>
+                            </div>
+<br/>
 
-
-                <div className="row">
+    <div className="row mx-auto">
                     {/* <!--Start Team One Single--> */}
                     <div className="col-xl-4 col-lg-4  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div className="team-one__single">
@@ -152,8 +160,31 @@ const Abouts = () => {
                             </div>
 
                             <div className="team-one__single-content text-center">
-                                <h2><a href="#">Name </a></h2>
-                                <p>Designation</p>
+                                <h2><a href="#">Franciscan Sisters of St. Clare </a></h2>
+                                <p>led by</p>
+                            </div>
+                        </div>
+                    </div>
+                    {/* <!--End Team One Single--> */}                
+                                  
+                </div>
+
+                <div className="row">                    
+
+                    {/* <!--Start Team One Single--> */}
+                    <div className="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="100ms" data-wow-duration="1500ms">
+                           <div className="team-one__single">
+                            <div className="team-one__single-img">
+                                <div className="team-one__single-img-bg">
+                                </div>
+                                <div className="inner">
+                                    <img src="assets/images/members/member3.jpg" alt="#"/>
+                                </div>
+                            </div>
+
+                            <div className="team-one__single-content text-center">
+                                <h2><a href="#">Archbishop Mar Andrews Thazhath</a></h2>
+                                <p>Chief Patron</p>
                             </div>
                         </div>
                     </div>
@@ -166,13 +197,13 @@ const Abouts = () => {
                                 <div className="team-one__single-img-bg">
                                 </div>
                                 <div className="inner">
-                                    <img src="assets/images/members/member2.jpg" alt="#"/>
+                                    <img src="assets/images/members/member3.jpg" alt="#"/>
                                 </div>
                             </div>
 
                             <div className="team-one__single-content text-center">
-                                <h2><a href="#">Name </a></h2>
-                                <p>Designation</p>
+                                <h2><a href="#">Fr. Joy Koothur</a></h2>
+                                <p>Co-Founders</p>
                             </div>
                         </div>
                     </div>
@@ -185,20 +216,20 @@ const Abouts = () => {
                                 <div className="team-one__single-img-bg">
                                 </div>
                                 <div className="inner">
-                                    <img src="assets/images/members/member3.jpg" alt="#"/>
+                                    <img src="assets/images/members/member2.jpg" alt="#"/>
                                 </div>
                             </div>
 
                             <div className="team-one__single-content text-center">
-                                <h2><a href="#">Name </a></h2>
-                                <p>Designation</p>
+                                <h2><a href="#">Rev. Sr. Maria Chiara Kalliayathparambil FSC</a></h2>
+                                <p>Co-Founders</p>
                             </div>
                         </div>
                     </div>
                     {/* <!--End Team One Single--> */}
 
                     {/* <!--Start Team One Single--> */}
-                    <div className="col-xl-4 col-lg-4  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    {/* <div className="col-xl-4 col-lg-4  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                             <div className="team-one__single">
                             <div className="team-one__single-img">
                                 <div className="team-one__single-img-bg">
@@ -213,11 +244,11 @@ const Abouts = () => {
                                 <p>Designation</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Team One Single--> */}
 
                     {/* <!--Start Team One Single--> */}
-                    <div className="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    {/* <div className="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="100ms" data-wow-duration="1500ms">
                            <div className="team-one__single">
                             <div className="team-one__single-img">
                                 <div className="team-one__single-img-bg">
@@ -232,11 +263,11 @@ const Abouts = () => {
                                 <p>Designation</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Team One Single--> */}
 
                     {/* <!--Start Team One Single--> */}
-                    <div className="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    {/* <div className="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                               <div className="team-one__single">
                             <div className="team-one__single-img">
                                 <div className="team-one__single-img-bg">
@@ -251,7 +282,7 @@ const Abouts = () => {
                                 <p>Designation</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Team One Single--> */}
                 </div>
             </div>

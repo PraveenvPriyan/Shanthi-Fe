@@ -26,14 +26,14 @@ function App() {
           <Routes>     
              {/* Back Office Routes */}
              
-              <Route path="/" element={<Home />}>              
+                <Route path="/" element={<Home />}/>              
                 <Route path="/aboutus" element={<Abouts />} />
                 <Route path="/donation" element={<Donation />} />
                 <Route path="/events" element={<Eventpage />} />
                 <Route path="/services" element={<Services/>} />
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/contactus" element={<Contactus />} />
-              </Route>
+              
               {/* <Route path="*" element={<Navigate to="/" />} /> */}   
               </Routes>          
         </main>
