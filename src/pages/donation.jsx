@@ -7,7 +7,7 @@ const Donation = () => {
 
     return(<>
      <div class="page-wrapper">
-        <Header></Header>
+        {/* <Header></Header> */}
 
                 {/* <!--Start Page Header--> */}
         <section class="page-header">

@@ -5,7 +5,7 @@ const Contactus = () => {
    
     return(<>
 <div className="page-wrapper">   
- <Header/>
+ {/* <Header/> */}
 
         <section className="page-header">
             <div className="page-header__bg" style={{"backgroundImage": "url(assets/images/contact/contact-header.jpg)"}}>

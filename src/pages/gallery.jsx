@@ -9,7 +9,7 @@ const Gallery = () => {
  <div className="page-wrapper">
 
    
- <Header/>
+ {/* <Header/> */}
 
  <section className="page-header">
             <div className="page-header__bg" style={{"backgroundImage": "url(assets/images/members/member-header.jpg)"}}>

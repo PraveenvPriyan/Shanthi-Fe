@@ -15,7 +15,7 @@ const Abouts = () => {
      <div className="page-wrapper">
 
    
- <Header/>
+ {/* <Header/> */}
 
         {/* <!--Start Page Header--> */}
         <section className="page-header">

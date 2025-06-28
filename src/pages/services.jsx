@@ -5,7 +5,7 @@ const Services = () => {
 
     return(<>
      <div className="page-wrapper">
-         <Header></Header>
+         {/* <Header></Header> */}
              {/* <!--Start Page Header--> */}
         <section className="page-header">
             <div className="page-header__bg" style={{"backgroundImage": "url(assets/images/services/services-header.jpg)"}}>
