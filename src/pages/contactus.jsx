@@ -43,7 +43,29 @@ const Contactus = () => {
             </div>
             <div className="container">
                 <div className="row">
+                   
+
                     {/* <!--Start Contact One Single--> */}
+                    <div className="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.2s">
+                        <div className="contact-one__single text-center">
+                            <div className="shape1"></div>
+                            <div className="contact-one__single-icon">
+                                <span className="icon-support"></span>
+                            </div>
+
+                            <div className="contact-one__single-content">
+                                <h2>Our Phone</h2>
+                                {/* <p><a href="tel:04876611600">
+04876611600
+
+</a></p> */}
+                                <p><a href="tel:061391112473">+61 391112473</a></p><br/>
+                            </div>
+                        </div>
+                    </div>
+                    {/* <!--End Contact One Single--> */}
+
+                     {/* <!--Start Contact One Single--> */}
                     <div className="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div className="contact-one__single text-center">
                             <div className="shape1"></div>
@@ -65,26 +87,6 @@ MELBOURNE VIC 3004, Australia
                     {/* <!--End Contact One Single--> */}
 
                     {/* <!--Start Contact One Single--> */}
-                    <div className="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.2s">
-                        <div className="contact-one__single text-center">
-                            <div className="shape1"></div>
-                            <div className="contact-one__single-icon">
-                                <span className="icon-support"></span>
-                            </div>
-
-                            <div className="contact-one__single-content">
-                                <h2>Our Phone</h2>
-                                {/* <p><a href="tel:04876611600">
-04876611600
-
-</a></p> */}
-                                <p><a href="tel:061391112473">391112473</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    {/* <!--End Contact One Single--> */}
-
-                    {/* <!--Start Contact One Single--> */}
                     <div className="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.3s">
                         <div className="contact-one__single text-center">
                             <div className="shape1"></div>
@@ -94,7 +96,7 @@ MELBOURNE VIC 3004, Australia
 
                             <div className="contact-one__single-content">
                                 <h2>Write email</h2>
-                                <p><a href="mailto:operationssbau@palliativeinternational.com">operationssbau@palliativeinternational.com
+                                <p><a href="mailto:operationssbau@palliativeinternational.com">operationssbau@<br/>palliativeinternational.com
 </a></p>
                                 {/* <p><a href="mailto:info@shanthibhavan.com">info@shanthibhavan.com
 </a></p> */}
@@ -184,8 +186,8 @@ MELBOURNE VIC 3004, Australia
                                     </div>
 
                                     <div className="text-box">
-                                        <p>Near by: Arattupuzha</p>
-                                        <h4>Thrissur</h4>
+                                        <p>MELBOURNE VIC 3004</p>
+                                        <h4>Australia</h4>
                                     </div>
                                 </div>
 
@@ -197,7 +199,7 @@ MELBOURNE VIC 3004, Australia
 
                                     <div className="text-box">
                                         <p>Get in touch </p>
-                                        <h4><a href="tel:061391112473">391112473</a></h4>
+                                        <h4><a href="tel:061391112473">+61 391112473</a></h4>
                                     </div>
                                 </div>
                             </div>

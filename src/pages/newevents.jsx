@@ -49,7 +49,7 @@ const Newevents = () => {
                                 <div className="blog-one__single-content">
                                     <div className="white-bg"></div>
                             
-                                    <ul className="meta-box">
+                                    {/* <ul className="meta-box">
                                         <li>
                                             <div className="icon">
                                                 <span className="icon-location1"></span>
@@ -59,14 +59,14 @@ const Newevents = () => {
                                             </div>
                                         </li>
     
-                                    </ul>
+                                    </ul> */}
 
                                     <h2><a href="#">{event.c_eventtitle}</a></h2>
 
                                     <div className="blog-one__single-content-bottom">
                                         <div className="btn-box">
-                                            <a href="#"> More <span
-                                                    className="icon-right-arrow21"></span></a>
+                                            {/* <a href="#"> More <span
+                                                    className="icon-right-arrow21"></span></a> */}
                                         </div>  
                                     
                                     </div>

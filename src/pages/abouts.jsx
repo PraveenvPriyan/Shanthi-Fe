@@ -149,7 +149,7 @@ Our mission is rooted in a single truth: No one deserves to suffer alone. While 
 
     <div className="row mx-auto">
                     {/* <!--Start Team One Single--> */}
-                    <div className="col-xl-4 col-lg-4  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    {/* <div className="col-xl-4 col-lg-4  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div className="team-one__single">
                             <div className="team-one__single-img">
                                 <div className="team-one__single-img-bg">
@@ -164,7 +164,7 @@ Our mission is rooted in a single truth: No one deserves to suffer alone. While 
                                 <p>led by</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Team One Single--> */}                
                                   
                 </div>
@@ -197,7 +197,7 @@ Our mission is rooted in a single truth: No one deserves to suffer alone. While 
                                 <div className="team-one__single-img-bg">
                                 </div>
                                 <div className="inner">
-                                    <img src="assets/images/members/member3.jpg" alt="#"/>
+                                    <img src="assets/images/members/member1.jpg" alt="#"/>
                                 </div>
                             </div>
 
@@ -297,7 +297,7 @@ Our mission is rooted in a single truth: No one deserves to suffer alone. While 
             <div className="container">
                 <div className="sec-title">
                    
-                    <h2 className="sec-title__title">What our Clients say
+                    <h2 className="sec-title__title">Testimonial
                     </h2>
                 </div>
                 <div className="row">

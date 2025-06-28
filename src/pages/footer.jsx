@@ -24,7 +24,7 @@ const Footer = () => {
                                              alt="#"/></a>
                                  </div>
 
-                                 <div className="footer-widget__single-about-text">
+                                 {/* <div className="footer-widget__single-about-text">
                                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, feugiat faucibus orci. Nam hendrerit feugiat imperdiet. 
                                      </p>
                                  </div>
@@ -33,7 +33,7 @@ const Footer = () => {
                                      <a className="thm-btn" href="#">
                                          <span className="txt">Join Now</span>
                                      </a>
-                                 </div>
+                                 </div> */}
                              </div>
                          </div>
                      </div>
@@ -97,7 +97,7 @@ const Footer = () => {
                                  <li><a href="/services">Services</a></li>
                                  <li><a href="/events">Events</a></li>
                                  <li><a href="/contactus">Contact Us</a></li>
-                                 <li><a href="/gallery">Gallery</a></li>
+                                 {/* <li><a href="/gallery">Gallery</a></li> */}
                                   
                                   
                              </ul>
@@ -138,7 +138,7 @@ const Footer = () => {
              <div className="bottom-inner">
 
                  <div className="footer-one__bottom-left">
-                     <div className="title-box">
+                     {/* <div className="title-box">
                          <h4>Follow Social</h4>
                      </div>
                      <div className="social-links">
@@ -147,7 +147,7 @@ const Footer = () => {
                              <li><a href="#"><span className="icon-youtube"></span></a></li>
                              <li><a href="#"><span className="icon-instagram"></span></a></li>
                          </ul>
-                     </div>
+                     </div> */}
                  </div>
 
                  <div className="copyright">

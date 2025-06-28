@@ -41,7 +41,7 @@ const Slider = () => {
                              
                                 <div className="title">
     <h2>
-        Welcome to Palliative International       
+        Welcome to <br/>Palliative <br/> International       
     </h2>
                                 </div>
 
@@ -63,7 +63,7 @@ const Slider = () => {
                             <div className="main-slider-one__content">
                               
                                 <div className="title">
-                                    <h2> Global Pioneer <br />
+                                    <h2>A Global Pioneer <br />
                                             in Long Term Palliative <br />
                                             Hospital Care
                                     </h2>

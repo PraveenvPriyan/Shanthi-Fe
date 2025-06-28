@@ -36,13 +36,16 @@ const Donation = () => {
                   <div class="col-md-12 text-center">
                 
                     <p class="donation-subtitle">All our initiatives are built on the generous offerings made by thousands of kind human beings. Be a part of our activities by donating a portion of your earnings, big or small. After all, what good can money if not spent for the right cause?</p>
-
+<br/>
+<div class="btn-box dn-box">
+                                                <a class="thm-btn" href="#">Donation</a>
+                                            </div>
                   </div>  
                 </row>
 
                 <div class="row">
                     {/* <!--Start Case One Single--> */}
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0ms"
+                    {/* <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0ms"
                         data-wow-duration="1500ms">
                         <div class="case-one__single">
                             <div class="case-one__single-img">
@@ -91,11 +94,11 @@ const Donation = () => {
 
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Case One Single--> */}
 
                     {/* <!--Start Case One Single--> */}
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="100ms"
+                    {/* <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="100ms"
                         data-wow-duration="1500ms">
                       <div class="case-one__single">
                             <div class="case-one__single-img">
@@ -144,11 +147,11 @@ const Donation = () => {
 
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!--End Case One Single--> */}
 
                     {/* <!--Start Case One Single--> */}
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="200ms"
+                    {/* <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="200ms"
                         data-wow-duration="1500ms">
                          <div class="case-one__single">
                             <div class="case-one__single-img">
@@ -197,7 +200,7 @@ const Donation = () => {
 
                             </div>
                         </div>
-                    </div>
+                    </div> */}
              
                 </div>
             </div>

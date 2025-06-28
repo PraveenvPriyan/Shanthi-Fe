@@ -27,7 +27,7 @@ const Home = () => {
 
                             <div className="feature-one__single-content">
                                 <h2><a href="/aboutus"> Who We <br/> Serve</a></h2>
-<p>Elderly abandoned by families<br/>
+<p style={{"textAlign":"left","minHeight":"256px"}}>Elderly abandoned by families<br/>
 Bedridden and terminally ill patients<br/>
 Patients with no one to care for them<br/>
 Families unable to afford long-term medical support<br/>
@@ -48,7 +48,7 @@ Families unable to afford long-term medical support<br/>
 
                             <div className="feature-one__single-content">
                                 <h2><a href="/aboutus">What We Provide –<br/> Completely Free</a></h2>
-<p>Hospital admission and accommodation<br/>
+<p style={{"textAlign":"left","minHeight":"256px"}}>Hospital admission and accommodation<br/>
 Doctor and nursing care<br/>
 Physiotherapy<br/>
 Dialysis and fluid tapping<br/>
@@ -69,7 +69,7 @@ Catheter and bed sore management</p>
 
                             <div className="feature-one__single-content">
                                 <h2><a href="/aboutus">Hands of <br/>Grace Program</a></h2>
-<p>For patients without family support or financial ability, Hands of Grace ensures they receive everything from care supplies to personal bystander assistance without worry.</p>
+<p style={{"textAlign":"justify","minHeight":"256px"}}>For patients without family support or financial ability, Hands of Grace ensures they receive everything from care supplies to personal bystander assistance without worry.</p>
                             </div>
                         </div>
                     </div>
@@ -85,7 +85,7 @@ Catheter and bed sore management</p>
             <div className="container">
                 <div className="row">
                     {/* <!--Start About One Content--> */}
-                    <div className="col-xl-7">
+                    <div className="col-xl-7" style={{"alignItems":"center", "display":"flex"}}>
                         <div className="about-one__content">
                             <div className="sec-title">
                              
@@ -98,7 +98,7 @@ Hospital in India
                             </div>
                             <div className="about-one__content-bottom">
                                 <div className="row">
-                                    <div className="col-xl-6 col-lg-6 col-md-6">
+                                    {/* <div className="col-xl-6 col-lg-6 col-md-6">
                                         <div className="about-one__content-bottom-left">
                                             <div className="single-box">
                                           <ul>
@@ -125,16 +125,16 @@ Hospital in India
                                           </ul>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
 
 
 <div className="col-xl-12 col-lg-12 col-md-12">
 <div className="shanthi-about-home-btm">
 <p>Palliative care aims to improve the quality of life of people with life-limiting or disabling diseases, by treating pain and by providing emotional, mental and social support. Everyone can be a part of it.</p>
 <div className="btn-box">
-                                    <a className="thm-btn" href="/aboutus">
+                                    {/* <a className="thm-btn" href="/aboutus">
                                         <span className="txt">Read more</span>
-                                    </a>
+                                    </a> */}
                                 </div>
 
 </div>
@@ -286,9 +286,9 @@ Shanthibhavan bridges this gap. We serve as a sanctuary for those rejected by co
                                   
                                     <h2><a href="/services">Short Term Care</a>
                                     </h2>
-                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
+                                    {/* <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
                                         feugiat faucibus orci. </p>
-                                         <a href="/services" className="shanthi-vm-link"> View More &#8594;</a>
+                                         <a href="/services" className="shanthi-vm-link"> View More &#8594;</a> */}
                                 </div>
                               
                             </div>
@@ -312,9 +312,9 @@ Shanthibhavan bridges this gap. We serve as a sanctuary for those rejected by co
                                  
                                     <h2><a href="/services">Long Term Care</a>
                                     </h2>
-                                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
+                                   {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
                                         feugiat faucibus orci.  </p>
-                                         <a href="/services" className="shanthi-vm-link"> View More &#8594;</a>
+                                         <a href="/services" className="shanthi-vm-link"> View More &#8594;</a> */}
                                 </div>
                             
                             </div>
@@ -338,9 +338,9 @@ Shanthibhavan bridges this gap. We serve as a sanctuary for those rejected by co
                                     
                                     <h2><a href="/services">Free Service</a>
                                     </h2>
-                                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
+                                   {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
                                         feugiat faucibus orci.  </p>
-                                         <a href="/services" className="shanthi-vm-link"> View More &#8594;</a>
+                                         <a href="/services" className="shanthi-vm-link"> View More &#8594;</a> */}
                                 </div>
                         
                             </div>
@@ -364,10 +364,10 @@ Shanthibhavan bridges this gap. We serve as a sanctuary for those rejected by co
                                 
                                     <h2><a href="/services">Free Caravan Camps</a>
                                     </h2>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
+                                  {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu convallis lectus, 
                                         feugiat faucibus orci.  </p>
 
-                                        <a href="/services" className="shanthi-vm-link"> View More &#8594;</a>
+                                        <a href="/services" className="shanthi-vm-link"> View More &#8594;</a> */}
                                 </div>
                             
                             </div>
@@ -416,7 +416,7 @@ Join hands with Palliative International, and be a part of a global movement of 
                                 style={{"backgroundImage": "url(assets/images/join-volunteer-home.jpg)"}}></div>
 
                                      <div className="btn-box">
-                                    <a className="thm-btn" href="registration.html">
+                                    <a className="thm-btn" href="#">
                                         <span className="txt">Donate Now</span>
                                     </a>
                                 </div>
@@ -447,7 +447,7 @@ Medical Bed</h2>
 
 
 
-<div className="case-one__single-content">
+{/* <div className="case-one__single-content">
 
     <div className="case-one__progress">
                                     <div className="case-one__progress-box">
@@ -471,10 +471,10 @@ Medical Bed</h2>
                                 <h2 className="spb-p"> 35% <span>Recieved</span></h2>
 </div>
 
-</div>
+</div> */}
 
 
-<div className="btn-box">
+{/* <div className="btn-box">
                                     <a className="thm-btn" href="/donation">
                                         <span className="txt">Sponsor Now</span>
                                     </a>
@@ -482,7 +482,7 @@ Medical Bed</h2>
                                      <a className="thm-btn" href="/donation">
                                         <span className="txt">Know more</span>
                                     </a>
-                                </div>
+                                </div> */}
  </div>
 </div>
     </div>
@@ -496,9 +496,9 @@ Medical Bed</h2>
             <div className="container">
                 <div className="sec-title">
                     <div className="sec-title__tagline">
-                        <h6>Testimonial</h6>
+                        {/* <h6>Testimonial</h6> */}
                     </div>
-                    <h2 className="sec-title__title">What our Clients say
+                    <h2 className="sec-title__title">Testimonial
                     </h2>
                 </div>
                 <div className="row">
