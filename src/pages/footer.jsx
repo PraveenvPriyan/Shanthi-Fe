@@ -75,7 +75,7 @@ const Footer = () => {
 
                                          <div className="content-box">
                                              {/* <p><a href="tel:04876611600">04876611600</a></p> */}
-                                             <p><a href="tel:061391112473">391112473</a></p>
+                                             <p><a href="tel:+61391112473">+61 391112473</a></p>
                                          </div>
                                      </div>
                                  </li>

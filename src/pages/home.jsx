@@ -1,5 +1,5 @@
 import Events from './events';
-import Header from './header';
+// import Header from './header';
 import Slider from './slider';
 import Footer from './footer'; 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
 
     return(
         <>                        
-       <Header/>
+       {/* <Header/> */}
        <Slider/>       
         {/* <!--Start Feature One --> */}
         <section className="feature-one feature-one--four">

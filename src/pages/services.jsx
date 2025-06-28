@@ -43,15 +43,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Long Term Care</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
@@ -74,15 +74,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Short Term Care</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
@@ -105,15 +105,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Free Services</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
@@ -136,15 +136,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Free Caravan Camps</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
@@ -167,15 +167,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Free Palliative Hospitals</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
@@ -199,15 +199,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Sponsor a Medical Bed</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
@@ -230,15 +230,15 @@ const Services = () => {
 
                         <div className="col-xl-6">
                             <div className="case-one__single-content">
-                                <div className="inner sh-min-399">
+                                <div className="inner sh-min-399" style={{"display":"flex","alignItems":"center"}}>
                                     <div className="case-one__single-content-bg">
                                     </div>
                                     <h2><a href="#">Philanthropic Support</a></h2>
-                                    <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
+                                    {/* <p>We provide 24 hour Home Care service which is purely dedicated to Old aged, 
                                         Bedridden & Dying patients who register their names under the locality of 
                                         Thrissur district. At present, more than 1000 patients are being visited at 
                                         their homes and the sick are taken care of. Our Doctors, Nurses & Community 
-                                        Volunteers are exclusively dedicated to this service 24/7.</p>
+                                        Volunteers are exclusively dedicated to this service 24/7.</p> */}
                                 </div>
                              
                             </div>
