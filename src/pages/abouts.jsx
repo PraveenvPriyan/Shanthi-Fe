@@ -117,7 +117,7 @@ Our mission is rooted in a single truth: No one deserves to suffer alone. While 
                         </div>
 
                         <div className="about-one__bottom-btn">
-                            <a className="thm-btn" href="#">
+                            <a className="thm-btn" href="donation">
                                 <span className="txt">Join Us</span>
                             </a>
                         </div>

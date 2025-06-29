@@ -64,9 +64,9 @@ const Services = () => {
                 <div className="case-one__single wow animated fadeInUp" data-wow-delay="0.1s">
                             <div className="row">
                         <div className="col-xl-6">
-                            <div className="case-one__single-img">
-                                 <div className="inner">
-                                    <img src="assets/images/services/services.jpg" alt="#"/>
+                            <div className="case-one__single-img" style={{"height":"100%"}}>
+                                 <div className="inner" style={{"height":"100%"}}>
+                                    <img src="assets/images/services/case-v1-img3.jpg" style={{"height":"100%"}} alt="#"/>
                                 </div>
                                 
                             </div>
@@ -95,9 +95,9 @@ const Services = () => {
                 <div className="case-one__single wow animated fadeInUp" data-wow-delay="0.1s">
                              <div className="row">
                         <div className="col-xl-6">
-                            <div className="case-one__single-img">
-                                 <div className="inner">
-                                    <img src="assets/images/services/services.jpg" alt="#"/>
+                            <div className="case-one__single-img" style={{"height":"100%"}}> 
+                                 <div className="inner" style={{"height":"100%"}}>
+                                    <img src="assets/images/services/case-v1-img4.jpg" style={{"height":"100%"}} alt="#"/>
                                 </div>
                                 
                             </div>
@@ -126,9 +126,9 @@ const Services = () => {
                 <div className="case-one__single wow animated fadeInUp" data-wow-delay="0.1s">
                         <div className="row">
                         <div className="col-xl-6">
-                            <div className="case-one__single-img">
-                                 <div className="inner">
-                                    <img src="assets/images/services/services.jpg" alt="#"/>
+                            <div className="case-one__single-img" style={{"height":"100%"}}>
+                                 <div className="inner" style={{"height":"100%"}}>
+                                    <img src="assets/images/slides/slider-v3-img2.jpg" style={{"height":"100%"}} alt="#"/>
                                 </div>
                                 
                             </div>
@@ -157,9 +157,9 @@ const Services = () => {
                 <div className="case-one__single wow animated fadeInUp" data-wow-delay="0.1s">
                          <div className="row">
                         <div className="col-xl-6">
-                            <div className="case-one__single-img">
-                                 <div className="inner">
-                                    <img src="assets/images/services/services.jpg" alt="#"/>
+                            <div className="case-one__single-img" style={{"height":"100%"}}>
+                                 <div className="inner" style={{"height":"100%"}}>
+                                    <img src="assets/images/services/case-v1-img2.jpg" style={{"height":"100%"}} alt="#"/>
                                 </div>
                                 
                             </div>
@@ -191,7 +191,7 @@ const Services = () => {
                         <div className="col-xl-6">
                             <div className="case-one__single-img">
                                  <div className="inner">
-                                    <img src="assets/images/services/services.jpg" alt="#"/>
+                                    <img src="assets/images/services/services1.jpg" alt="#"/>
                                 </div>
                                 
                             </div>
@@ -220,9 +220,9 @@ const Services = () => {
                                 <div className="case-one__single wow animated fadeInUp" data-wow-delay="0.1s">
                          <div className="row">
                         <div className="col-xl-6">
-                            <div className="case-one__single-img">
-                                 <div className="inner">
-                                    <img src="assets/images/services/services.jpg" alt="#"/>
+                            <div className="case-one__single-img" style={{"height":"100%"}}>
+                                 <div className="inner" style={{"height":"100%"}}>
+                                    <img src="assets/images/services/case-v1-img1.jpg" style={{"height":"100%"}} alt="#"/>
                                 </div>
                                 
                             </div>
