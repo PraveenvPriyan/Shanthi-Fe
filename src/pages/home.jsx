@@ -249,7 +249,7 @@ Shanthibhavan bridges this gap. We serve as a sanctuary for those rejected by co
                         <div className="about-one__img">
                             <div className="about-one__img-inner">
                                
-                                <img src="assets/images/about/about-v1-img2.jpg" alt="#"/>
+                                <img src="assets/images/about/about-v1-img21.jpg" alt="#"/>
                             </div>
                         </div>
                     </div>
